@@ -1,2 +1,1 @@
-# cryptowebsite
-Token website for your project
+Token Website
