@@ -1,2 +1,2 @@
-# coin
-coin_website
+# cryptowebsite
+Token website for your project
